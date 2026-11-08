@@ -1,0 +1,143 @@
+{
+  "municipality": "横浜市",
+  "fetched_at": "2026-11-07",
+  "note": "数値は出典ページ・出典PDFに書いてある値だけ。出典に無い項目は「未確認」。quotes[].text は出典の原文を空白・改行を除いてそのまま写したもの（照合は NFKC 正規化＋空白除去で行う）。",
+  "pdf_snapshots": {
+    "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0095_20260325.pdf": {
+      "title": "既存住宅断熱改修補助制度 チラシ",
+      "sha256": "5e4e58da542c2bb7048e88ae3704db1a22366489143992a003974689ef1ade2c"
+    },
+    "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0109_20260626.pdf": {
+      "title": "補助金併用チラシ（令和8年7月現在）",
+      "sha256": "c23945f6e603f65706a324c2c94e390c8da0e7fac4ff191869cec43628ed6919"
+    },
+    "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.files/20260401_kaikoubuleaflet.pdf": {
+      "title": "開口部不燃化等改修補助リーフレット",
+      "sha256": "12119d1f4b650d1ed4606eccdac798a0726207d9a393319a75e160464180fd39"
+    }
+  },
+  "subsidies": [
+    {
+      "id": "dannetsu",
+      "name": "令和8年度 既存住宅断熱改修補助制度",
+      "keywords": ["窓", "断熱", "省エネ", "戸建て"],
+      "target_work": "戸建ての既存住宅を、建物1棟または部分（居室と浴室脱衣室エリアを含む連続したエリア）で断熱等級6以上相当に断熱改修する工事。窓改修のみ・お風呂・トイレ改修のみは対象外。申請は登録事業者が行い、個人の直接申請は不可。",
+      "max_amount": "子育て世代の住替え 最大150万円／定住（1棟断熱改修）最大120万円／定住（部分改修）最大100万円",
+      "deadline": "予約申請・本申請とも 令和8年11月30日締切",
+      "deadline_date": "2026-11-30",
+      "combination": "国の先進的窓リノベ2026事業・給湯省エネ2026事業などと併用可能（市のチラシ）。同色の補助金は原則併用できない（市の併用チラシ）。",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.html",
+      "documents": [
+        { "title": "横浜市既存住宅断熱改修補助制度 要綱（PDF）", "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0108_20260624.pdf" }
+      ],
+      "fetched_at": "2026-11-07",
+      "quotes": [
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.html", "text": "子育て世代の住替え補助（１棟断熱改修型（工事契約タイプ）・１棟断熱改修型（買取再販タイプ））・・・【最大補助金額150万円】" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.html", "text": "定住補助（１棟断熱改修型（工事契約タイプ）・部分断熱改修型（工事契約タイプ））・・・【最大補助金額120万円】" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.html", "text": "■②本申請（１）受付期間（本申請）受付開始令和８年５月１日締切令和８年11月30日" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.html", "text": "（１）受付期間（予約申請）受付開始令和８年４月１日締切令和８年11月30日" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.html", "text": "個人の方が直接申請することはできません。" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0095_20260325.pdf", "text": "●定住世帯：最大120万円（部分改修は最大100万円）" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0095_20260325.pdf", "text": "建物１棟または部分（居室と浴室脱衣室エリアを含む連続したエリア）に断熱等級６以上相当の省エネ性能を有すること。" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0095_20260325.pdf", "text": "●窓改修のみ●お風呂・トイレ改修のみ等" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0095_20260325.pdf", "text": "先進的窓リノベ2026事業最大100万円給湯省エネ2026事業最大17万円…など" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0109_20260626.pdf", "text": "横浜市（同色の補助金は原則併用できません）" }
+      ]
+    },
+    {
+      "id": "mokutai",
+      "name": "横浜市木造住宅耐震改修補助事業",
+      "keywords": ["耐震", "木造", "戸建て"],
+      "target_work": "平成12年5月末日以前に建築確認を得て着工した2階建以下の在来軸組構法の木造個人住宅で、建築士の耐震診断の点数が1.0未満のものを1.0以上にする耐震改修工事。同時に行う省エネ改修には加算がある。",
+      "max_amount": "一般世帯 115万円／非課税世帯 155万円（省エネ改修を行う場合の加算 100万円）",
+      "deadline": "完了実績報告の締切 令和9年2月26日（交付申請の締切は出典ページに記載なし＝未確認）",
+      "deadline_date": "2027-02-26",
+      "combination": "市住宅政策課の省エネ改修補助と、本事業の耐震改修工事の補助は併用できる。ただし本事業の省エネ改修加算との併用はできない。",
+      "source_url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html",
+      "documents": [
+        { "title": "横浜市木造住宅耐震改修促進事業に関する補助金交付要綱（PDF）", "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.files/0078_20260327.pdf" }
+      ],
+      "fetched_at": "2026-11-07",
+      "quotes": [
+        { "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html", "text": "令和８年度の申請受付を令和８年４月１日から開始します。完了実績報告の締切は、令和９年２月26日です。" },
+        { "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html", "text": "平成１２年５月末日以前に建築確認を得て着工された２階建以下の在来軸組構法の木造個人住宅" },
+        { "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html", "text": "上記の住宅で、建築士が行った耐震診断の結果、点数（上部構造評点等）が１．０未満と判定された住宅" },
+        { "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html", "text": "一般世帯１１５万円" },
+        { "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html", "text": "非課税世帯※１１５５万円" },
+        { "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html", "text": "区分①補助限度額②補助対象工事費一律１００万円" },
+        { "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html", "text": "横浜市住宅政策課が行う、省エネ改修に係る補助と、本事業の耐震改修工事に係る補助は併用ができます。" },
+        { "url": "https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/taishin/hojokinshienseido/mokutai/mokukaishu/mokukaishu.html", "text": "ただし、本事業の省エネ改修工事に関する補助金の加算との併用はできませんので、ご注意ください。" }
+      ]
+    },
+    {
+      "id": "jukankyo",
+      "name": "住環境整備費の助成（住環境整備事業）",
+      "keywords": ["バリアフリー", "浴室", "トイレ", "手すり", "段差"],
+      "target_work": "支援・介護が必要な高齢者や障害児・者が自宅で暮らし続けるための住宅改造（手すりの取り付け、段差の解消、床材の変更、引き戸等への扉の取替え等）。住宅改造費の対象者は身体障害者手帳1級・2級の方など（その手帳を65歳以降に取得した方を除く）。新築・増築、老朽化や故障に伴う工事は対象外。",
+      "max_amount": "住宅改造費（浴室・便所などの改造費用）120万円を限度",
+      "deadline": "未確認（出典ページに受付期限の記載なし。事前相談が必要）",
+      "deadline_date": null,
+      "combination": "介護保険の対象となる工事は介護保険が優先。それ以外の併用の可否は未確認。",
+      "source_url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fukushi/annai/jutaku/jutaku-josei/josei.html",
+      "documents": [
+        { "title": "横浜市住環境整備事業のご案内（PDF）", "url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fukushi/annai/jutaku/jutaku-josei/josei.files/0005_20250424.pdf" }
+      ],
+      "fetched_at": "2026-11-07",
+      "quotes": [
+        { "url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fukushi/annai/jutaku/jutaku-josei/josei.html", "text": "・住宅改造費（浴室・便所などを改造するための費用）を120万円を限度に助成します（介護保険制度の対象となる工事については、介護保険制度が優先になります）。" },
+        { "url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fukushi/annai/jutaku/jutaku-josei/josei.html", "text": "（１）身体障害者手帳１級又は２級を取得した方" },
+        { "url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fukushi/annai/jutaku/jutaku-josei/josei.html", "text": "※ただし、該当する身体障害者手帳を65歳に達した日以降に取得した方を除きます。" },
+        { "url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fukushi/annai/jutaku/jutaku-josei/josei.html", "text": "（例：手すりの取り付け、段差の解消、移動しやすい床材への変更、引き戸等への扉の取替え等）" },
+        { "url": "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/fukushi-kaigo/fukushi/annai/jutaku/jutaku-josei/josei.html", "text": "・新築や増築、老朽化や故障に伴う工事は対象となりません。" }
+      ]
+    },
+    {
+      "id": "manbf",
+      "name": "マンションの共用部等のバリアフリー化補助",
+      "keywords": ["マンション", "バリアフリー", "手すり", "スロープ"],
+      "target_work": "分譲マンションの共用部またはその敷地の段差解消・手すり設置・スロープ化などのバリアフリー化工事。申請するのは管理組合（横浜市マンション登録制度へ登録し、本事業の補助を受けたことがない組合）。賃貸マンションと専有部（住戸内）は対象外。",
+      "max_amount": "工事費用（税抜）の3分の1かつ30万円以内（手すり設置工事は30万円又は住戸1戸当たり8,000円のうち低い額が上限）",
+      "deadline": "未確認（出典ページに受付期限の記載なし。工事契約前の事前相談が必須）",
+      "deadline_date": null,
+      "combination": "未確認（出典ページに他制度との併用の記載なし）。1管理組合につき1回のみ。",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/manportal/future/longuse/barrier-free.html",
+      "documents": [
+        { "title": "要綱（PDF）", "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/manportal/future/longuse/barrier-free.files/0048_20230214.pdf" }
+      ],
+      "fetched_at": "2026-11-07",
+      "quotes": [
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/manportal/future/longuse/barrier-free.html", "text": "工事費用（税抜）の３分の１かつ30万円以内（千円未満の端数切り捨て）" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/manportal/future/longuse/barrier-free.html", "text": "※手すり設置工事の場合、30万円又は住戸１戸当たり8,000円のうち低い額を上限とします。" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/manportal/future/longuse/barrier-free.html", "text": "※賃貸マンションや、専有部には利用できません。" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/manportal/future/longuse/barrier-free.html", "text": "限られた予算の中でできるだけ多くのマンションに支援をするため、１管理組合につき１回のみの補助としています。" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/manportal/future/longuse/barrier-free.html", "text": "住宅再生課に事前相談（必須）" }
+      ]
+    },
+    {
+      "id": "kaikoubu",
+      "name": "建築物開口部不燃化等改修事業補助（エリア限定）",
+      "keywords": ["窓", "防火", "断熱", "エリア限定"],
+      "target_work": "補助対象地区内の住宅の窓などの開口部を、両面20分以上の遮炎性能を有する防火設備で、U値（熱貫流率）2.3以下の断熱性能をもつものに改修する工事（原則はつり工法。窓1か所でも対象）。住宅は平成27年7月より前に建築された、準防火地域内の延べ面積500㎡未満・地階を除く階数2以下のもの。",
+      "max_amount": "最大100万円（補助率 重点対策地域3/4・それ以外の補助対象地区2/3）",
+      "deadline": "未確認（令和8年度の受付開始の告知のみで、締切の記載なし）",
+      "deadline_date": null,
+      "combination": "改修する部分に国の補助金が充当されている他の補助金とは併用できない。",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.html",
+      "documents": [
+        { "title": "横浜市建築物開口部不燃化等改修事業補助金交付要綱（PDF）", "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.files/20260401_kaikoubuyokou.pdf" }
+      ],
+      "fetched_at": "2026-11-07",
+      "quotes": [
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.html", "text": "そこで、性能要件を満たす開口部に改修する際に、その工事費の一部を最大100万円まで補助する制度を開始しました。" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.html", "text": "【お知らせ】令和８年度の補助申請受付を開始しました" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.html", "text": "本補助を利用して改修工事を実施する部分に、国の補助金が充当されている他の補助金を併用することはできません。" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/jutaku/sien/shoene/event/r8kizondannetuhojo.files/0109_20260626.pdf", "text": "【補助率】重点対策地域3/4上記以外の補助対象地区2/3" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.files/20260401_kaikoubuleaflet.pdf", "text": "・平成27年７月（不燃化推進条例施行）より前に建築されたもの" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.files/20260401_kaikoubuleaflet.pdf", "text": "・準防火地域内の建築物で、延べ面積500㎡未満かつ地階を除く階数２以下" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.files/20260401_kaikoubuleaflet.pdf", "text": "・両面20分以上の遮炎性能を有する防火設備であること" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.files/20260401_kaikoubuleaflet.pdf", "text": "・U値（熱貫流率）＝2.3以下の断熱性能を有すること" },
+        { "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/bosai/hojoshinsei/kaikoubu.files/20260401_kaikoubuleaflet.pdf", "text": "窓一か所の改修でも補助対象！" }
+      ]
+    }
+  ]
+}
